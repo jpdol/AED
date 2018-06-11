@@ -1,0 +1,20 @@
+C :
+    PRINT 1
+
+A :
+    PRINT 2
+    C
+    PRINT 3
+
+B :
+    PRINT 4
+    A
+    PRINT 5
+
+Z :
+    PRINT 0
+    A
+    B
+    PRINT 6
+
+~

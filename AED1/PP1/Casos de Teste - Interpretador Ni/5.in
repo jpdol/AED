@@ -1,0 +1,64 @@
+V :
+    PRINT 1
+    PRINT 2
+
+N :
+    PRINT 3
+
+E :
+    PRINT 4
+    V
+    PRINT 5
+
+G :
+    E
+    E
+    PRINT 6
+
+Z :
+    PRINT 7
+    U
+    PRINT 8
+    PRINT 9
+    M
+
+L :
+    PRINT 10
+    PRINT 11
+    H
+    PRINT 12
+    V
+
+H :
+    M
+    PRINT 13
+    PRINT 14
+    A
+    V
+
+X :
+    N
+    L
+    PRINT 15
+    N
+    V
+
+U :
+    PRINT 16
+    X
+    PRINT 17
+    PRINT 18
+    PRINT 19
+
+M :
+    PRINT 20
+    A
+    PRINT 21
+
+A :
+    PRINT 22
+    PRINT 23
+    PRINT 24
+    G
+
+~

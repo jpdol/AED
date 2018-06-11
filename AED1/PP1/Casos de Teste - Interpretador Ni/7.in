@@ -1,0 +1,109 @@
+Z :
+    Y
+    PRINT 14
+    L
+    PRINT 1
+    PRINT 11
+    PRINT 0
+    PRINT 11
+    PRINT 3
+    K
+
+X :
+    A
+    PRINT 3
+    PRINT 19
+    PRINT 17
+    L
+    D
+    PRINT 8
+
+D :
+    PRINT 13
+    PRINT 14
+    PRINT 7
+    A
+    PRINT 15
+    PRINT 7
+    A
+    PRINT 15
+
+K :
+    PRINT 8
+    PRINT 19
+    PRINT 6
+    PRINT 5
+    PRINT 4
+    T
+
+B :
+    T
+    D
+    T
+    C
+    L
+    K
+    PRINT 8
+
+T :
+    PRINT 7
+    G
+
+Q :
+    PRINT 2
+    X
+
+A :
+    PRINT 12
+    PRINT 19
+
+C :
+    L
+    PRINT 9
+    PRINT 16
+    X
+
+Y :
+    B
+    R
+    PRINT 18
+    PRINT 5
+    PRINT 19
+    PRINT 14
+    B
+    V
+    A
+
+G :
+    C
+    PRINT 16
+
+W :
+    X
+    K
+    L
+
+V :
+    PRINT 12
+    PRINT 17
+    W
+    PRINT 12
+    G
+    PRINT 1
+
+L :
+    PRINT 18
+    PRINT 1
+    PRINT 7
+    PRINT 2
+    S
+    PRINT 19
+
+R :
+    G
+    V
+
+S :
+    PRINT 9
+
+~

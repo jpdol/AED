@@ -1,0 +1,31 @@
+Y :
+    A
+    PRINT 18
+
+K :
+    M
+    PRINT 5
+
+F :
+    PRINT 19
+
+Z :
+    K
+    Y
+
+L :
+    PRINT 3
+    PRINT 14
+    PRINT 18
+    PRINT 1
+
+M :
+    A
+    PRINT 19
+    PRINT 2
+
+A :
+    PRINT 4
+    F
+
+~

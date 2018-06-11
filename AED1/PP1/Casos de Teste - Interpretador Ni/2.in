@@ -1,0 +1,18 @@
+Z :
+    PRINT 7
+    PRINT 4
+    K
+
+U :
+    PRINT 1
+    PRINT 10
+
+K :
+    PRINT 8
+    I
+
+I :
+    PRINT 9
+    U
+
+~

@@ -1,0 +1,19 @@
+Z :
+    W
+    W
+
+D :
+    PRINT 0
+    B
+    PRINT 8
+
+B :
+    PRINT 13
+
+W :
+    D
+    PRINT 10
+    PRINT 0
+    PRINT 5
+
+~
